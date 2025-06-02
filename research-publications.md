@@ -19,7 +19,6 @@ Below is a list of my publications categorized by type. Click on the headings to
 
 ## 📚 International Journal Publications
 <div class="publications-dropdown">
-  <button onclick="toggleSection('journal')">▶ Show/Hide</button>
   <div id="journal" class="publication-section">
     <ul>
       <li>
@@ -28,11 +27,11 @@ Below is a list of my publications categorized by type. Click on the headings to
       </li>
       <li>
         Impact of Data Pre-Processing Techniques on XGBoost Model Performance for Predicting All-Cause Readmission and Mortality Among Patients with Heart Failure, <em>BioMedInformatics</em>, 2024.  
-        DOI: [10.3390/biomedinformatics4040118](https://doi.org/10.3390/biomedinformatics4040118) 
+        DOI: <a href="https://doi.org/10.3390/biomedinformatics4040118" target="_blank">10.3390/biomedinformatics4040118</a>
       </li>
       <li>
         Predictive Analytics in Heart Failure Risk, Readmission, and Mortality Prediction: A Review, <em>Cureus</em>, 2024. 
-        DOI: [10.7759/cureus.73876](https://doi.org/10.7759/cureus.73876) 
+        DOI: <a href="https://doi.org/10.7759/cureus.73876" target="_blank">10.7759/cureus.73876</a>
       </li>
     </ul>
   </div>

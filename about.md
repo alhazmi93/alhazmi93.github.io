@@ -5,6 +5,8 @@ layout: default
 
 # ABOUT ME
 
+----
+
 ## Professional Experience
 
 **2023 – Present**:  

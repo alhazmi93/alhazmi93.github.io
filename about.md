@@ -65,11 +65,7 @@ Ondokuz Mayıs Üniversitesi, Türkiye
 - **Electronics**: Arduino, Raspberry Pi, ESP-32
 - **Office Tools**: LaTeX, Microsoft 365
 - **Machine Learning Libraries**: scikit-learn, xgboost, tensorflow, yolo
-- **Languages**:  
-  - Bahasa Indonesia (native)  
-  - English (B2)  
-  - Türkçe (C1)  
-  - 日本語 (A2)
+- **Languages**: Bahasa Indonesia (native), English (B2), Türkçe (C1), 日本語 (A2)
 
 ## Contact
 

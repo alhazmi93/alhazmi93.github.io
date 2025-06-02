@@ -24,7 +24,7 @@ Institut Teknologi Telkom Purwokerto, Indonesia
 Cybers Global Indonesia, PT., Indonesia
 
 **2016 – 2017**:  
-*Information Technology Department Head*  
+*Assistant Manager of Information Technology Department*  
 Cybers Global Indonesia, PT., Indonesia
 
 **2016**:  

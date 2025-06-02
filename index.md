@@ -4,6 +4,8 @@ layout: home
 nav_order: 1
 ---
 
+# WELCOME
+
 I am Qisthi Alhazmi Hidayaturrohman. I have dedicated myself to academics and research since 2018. I earned a Master's in Telecommunication Electronics from Gunadarma University in 2015.
 
 My research areas include the Internet of Things technology, data analytics, predictive analytics, and health informatics.

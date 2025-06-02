@@ -16,6 +16,7 @@ I am actively looking for a full-time post-doc or assistant professor opportunit
 Contact: 
 
 Email     : qisthialhazmi@gmail.com or 23805191@edu.cc.saga-u.ac.jp
+
 LinkedIn  : https://www.linkedin.com/in/qisthialhazmi/
 
 ----

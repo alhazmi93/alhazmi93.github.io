@@ -7,5 +7,7 @@ url: https://alhazmi93.github.io
 aux_links:
   My Publication: https://scholar.google.com/citations?user=q04fkmIAAAAJ&hl=en
 
+aux_links_new_tab: true
+
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark

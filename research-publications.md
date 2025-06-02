@@ -13,8 +13,6 @@ For research collaboration, you may contact me at [qisthialhazmi@gmail.com](mail
 
 # Publications
 
-Below is a list of my publications categorized by type. Click on the headings to expand/collapse each section.
-
 ---
 
 ## 📚 Journal Publications

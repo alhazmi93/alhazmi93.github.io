@@ -24,7 +24,7 @@ Below is a list of my publications categorized by type. Click on the headings to
     <ul>
       <li>
         A Comparative Analysis of Hyper-Parameter Optimization Methods for Predicting Heart Failure Outcomes, <em>Applied Sciences</em>, 2025.  
-        DOI: [10.3390/app15063393](https://doi.org/10.3390/app15063393) 
+        DOI: <a href="https://doi.org/10.3390/app15063393" target="_blank">10.3390/app15063393</a>
       </li>
       <li>
         Impact of Data Pre-Processing Techniques on XGBoost Model Performance for Predicting All-Cause Readmission and Mortality Among Patients with Heart Failure, <em>BioMedInformatics</em>, 2024.  

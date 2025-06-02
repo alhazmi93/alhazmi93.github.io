@@ -19,7 +19,7 @@ Universitas Pembangunan Nasional Veteran Jakarta, Indonesia
 *Lecturer*  
 Institut Teknologi Telkom Purwokerto, Indonesia
 
-**2017**:  
+**2017 - 2017**:  
 *Human Capital and Training Development Supervisor*  
 Cybers Global Indonesia, PT., Indonesia
 
